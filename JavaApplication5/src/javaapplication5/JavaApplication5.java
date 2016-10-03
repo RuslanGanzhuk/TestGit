@@ -8,6 +8,8 @@ public class JavaApplication5 {
         int c = a + b;
         
         System.out.println(c);
+        int d = c-a;
+        System.out.println(d);
     }
     
 }
